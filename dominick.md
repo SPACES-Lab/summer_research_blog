@@ -3,13 +3,12 @@ layout: default
 title: Dominick's Page!
 ---
 [Back Home](/README.md)
-## Welcome to My Example Page
+## Welcome to My Blog Page
 
-This is some basic content for testing
+In this page I will post 1-2 times a week on my progress throughout the project!
 
 ### About This Page
 
-blah blah 
 
 ### Features
 
