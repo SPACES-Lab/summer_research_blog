@@ -1,1 +1,18 @@
 @import "jekyll-theme-slate";
+
+
+#header_content {
+  display: flex;
+  align-items: center;
+}
+
+#header_content img {
+  height: 50px; /* Adjust as needed */
+  width: auto;
+  margin-right: 10px; /* Adjust space between logo and title */
+}
+
+#header_content div {
+  display: flex;
+  flex-direction: column;
+}
