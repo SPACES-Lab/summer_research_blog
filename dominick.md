@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Dominick's Page!
-permalink: /dominick/
 ---
 
 ## Welcome to My Example Page
