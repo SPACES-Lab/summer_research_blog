@@ -1,19 +1,11 @@
 ---
 layout: default
 title: Rosemary's Page!
-permalink: /rosemary/
 ---
 
-## Welcome to My Example Page
+## Welcome to My Blog!
 
-This is some basic content for testing
+### About This Page:
+My goal is to update every 1-2 days and share my progess, setbacks, and thoughts that i've had along the way. 
 
-### About This Page
-
-blah blah 
-
-### Features
-
-- Simple and clean design
-- Responsive layout
-- Easy customization
+### 
