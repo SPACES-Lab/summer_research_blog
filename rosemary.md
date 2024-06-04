@@ -17,6 +17,21 @@ My first day was on Tuesday May 21st and my first tasks were:
 3. Have our GitHub ready for use
 4. Document my steps for my teammate arriving later on
 5. Read _Connor's Thesis_ to get a better idea and understand what the goals of the research project are
+6. Familiarize myself with Pandas to make data analysis easier later down the road
+
+After I had my environment setup, I spent time understanding the raw data connor had collected for his thesis and looking through his code to further understand his work. 
+
+## May 28st - May 31th
+The second week we decided to focus on our sensors!!
+
+##### Purple Air:
+We started by making two API keys (read & write) with Purple air. 
+
+Check out the sensors on the map!--> **https://map.purpleair.com/1/mAQI/a10/p604800/cC0#16.9/34.105133/-117.712128**
+
+
+##### QuantAQ:
+Dominick focused on this sensor more!
 
 
 
