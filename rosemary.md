@@ -2,9 +2,8 @@
 layout: default
 title: Rosemary's Page!
 ---
-[Back Home](/README.md)
-# ⋆˙⟡ Welcome to Rosemary's Blog !⟡˙⋆
-
+[Home](/README.md)
+## ⋆˙⟡ Welcome to Rosemary's Blog !⟡˙⋆
 
 ## A little about my page:
 I started this REU on 05.21.2024
@@ -22,10 +21,21 @@ My first day was on Tuesday May 21st and my first tasks were:
 After I had my environment setup, I spent time understanding the raw data connor had collected for his thesis and looking through his code to further understand his work. 
 
 ## May 28st - May 31th
-The second week we decided to focus on our sensors!!
+The second week we decided I was prepared to focus on our sensors!!
 
 ##### Purple Air:
-We started by making two API keys (read & write) with Purple air. 
+Our team started by making two API keys (read & write) with Purple air. We then set up our first two sensors in our workplace on the second floor of Sprauge to test out data collection, using the new API, and overall just practice working with them. 
+
+Later on this week we met Professor Hawkins and she had introduced us to the rest of the sensors Connor used for his thesis. We created a group to track all of them at once
+**At this point we had 6 Purple Air sensors** 
+* HMC Jacobs 1
+* HMC Jacobs 2
+* HMC Jacobs 3
+* HMC Jacobs 4
+* HMC Jacobs 5
+* HMC Jacobs 6
+* Sprauge: floor 2
+* SpragueFloor2
 
 Check out the sensors on the map!--> **https://map.purpleair.com/1/mAQI/a10/p604800/cC0#16.9/34.105133/-117.712128**
 
