@@ -29,7 +29,7 @@ After creating my environment I decided that it was in my best interest to throu
 
 #### Learning How to Work With API's 
 
-Before working with the API's we setup PurpleAIR sensors just to see how they functioned which can be seen on the real time map (here)[https://map.purpleair.com/1/mAQI/a10/p604800/cC0#16.98/34.105185/-117.71215]  
+Before working with the API's we setup PurpleAIR sensors just to see how they functioned which can be seen on the real time map (here) [https://map.purpleair.com/1/mAQI/a10/p604800/cC0#16.98/34.105185/-117.71215] 
 
 
 
