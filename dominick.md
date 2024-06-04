@@ -35,6 +35,18 @@ Before working with the API's we setup PurpleAIR sensors just to see how they fu
 
 ![Creating Group](/images/image.png)
 
+This is a quick snippet of creating a group for the PurpleAIR sensors. In the rest of the code we add the differnt members(sensors) into the group. 
+
+Next, there was the process of working with the QuantAQ API. Unfortunately, there is no grouping function to access the sensor data so they must each be called individually. Using an api key and a basic get resposne fucntion we were able to acess the from the QuantAQ sensors including but not limited too PM1, PM2.5, and PM10 data which we also recieved from the PurpleAIR sensors. 
+
+#### Code Snippet(QuantAQ): 
+
+![Creating Group](/images/image(2).png) 
+
+Here in This image we see a basic API request from one of our QuantAQ sensors. This was then formatted with pandas and stored into a csv file wich could later be accessed for future comparisons and graphs! 
+
+
+
 
 
 
