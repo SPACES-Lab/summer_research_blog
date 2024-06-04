@@ -41,9 +41,7 @@ Check out the sensors on the map!--> **https://map.purpleair.com/1/mAQI/a10/p604
 
 To make sure they were working we decided to test their collection by making a simple plot showing how humidity and temperature values on different sensors relate to each other. (important in Connors thesis)
 
-### Small image
-
-![humditidy&temperature](humidity_temp_plot.png)
+![humditidy&temperature](images/humidity_temp_plot.png)
 
 ##### QuantAQ:
 Dominick focused on this sensor more!
