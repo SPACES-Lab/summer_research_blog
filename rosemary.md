@@ -43,6 +43,9 @@ To make sure they were working we decided to test their collection by making a s
 
 ![humditidy&temperature](images/humidity_temp_plot.png)
 
+From this plot we decided that one of our sensors (grey HMC Jacobs 1) was not working properly ᴖ̈ so we will not be using it for our data collection period.
+
+
 ##### QuantAQ:
 Dominick focused on this sensor more!
 
