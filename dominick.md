@@ -23,5 +23,13 @@ On my first day I was tasked with settimg up my environment which involved the f
 
 This was an essential first step as it created an environment where I have the necessary libraries needed to effectively collect data. Also, setting up the environment allowed for me to analyze Conner's Code and get a better understanding of the goals of the project and what comparisons, graphs and charts we will be creating when we collect our data. 
 
+#### Understanding the Thesis 
+
+After creating my environment I decided that it was in my best interest to throughly go through Conner's thesis and get a great understanding of the main concepts and his findings/results. It was especialy helpful looking through his methodolgy which cleared up a lot of gaps of knowledge that I had when going through his code. Throughout the weeks I will continue going through his thesis and code periodically so that I have as best of an undertsading of the science and math behind the graphs and charts so when we are done with our data collection showcasing that data will go as smoothly as possible. 
+
+#### Learning How to Work With API's 
+
+
+
 
 
