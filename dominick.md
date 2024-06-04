@@ -3,7 +3,7 @@ layout: default
 title: Dominick's Page!
 ---
 [Back Home](/README.md)
-## Welcome to My Blog Page
+## Welcome to Dominick's Blog Page
 
 On this page I will post 1-2 times a week on my progress throughout the project!
 
@@ -41,7 +41,7 @@ Next, there was the process of working with the QuantAQ API. Unfortunately, ther
 
 #### Code Snippet(QuantAQ): 
 
-![Creating Group](/images/image(2).png) 
+![Creating Group](/images/QuantAQ.png) 
 
 Here in This image we see a basic API request from one of our QuantAQ sensors. This was then formatted with pandas and stored into a csv file wich could later be accessed for future comparisons and graphs! 
 
