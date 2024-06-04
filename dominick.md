@@ -7,11 +7,6 @@ title: Dominick's Page!
 
 In this page I will post 1-2 times a week on my progress throughout the project!
 
-### About This Page
+### Week 1(5/28 - 5/31) 
 
 
-### Features
-
-- Simple and clean design
-- Responsive layout
-- Easy customization
