@@ -47,13 +47,9 @@ Here in This image we see a basic API request from one of our QuantAQ sensors. T
 
 
 ### Week 2(6/2 - 6/7) 
-Week 2 was entailed with a lot of housekeeping and preparation for future task. We both were tasked with the creation of the github repository for storing our code. We first ran our coe to make sure it worked before pushing it into the repository. After running our code we went through the process of learing how to properly commit code to a github repository from vscode. I personally ran into a couple of problems but after several failed pushes to the repository I finally figured it out and learned a lot along the way. The PurpleAir group code and QuantAQ api call is now available on the repository 
+Week 2 was entailed with a lot of housekeeping and preparation for future task. We both were tasked with the creation of the github repository for storing our code. We first ran our coe to make sure it worked before pushing it into the repository. After running our code we went through the process of learing how to properly commit code to a github repository from vscode. I personally ran into a couple of problems but after several failed pushes to the repository I finally figured it out and learned a lot along the way. The PurpleAir group code and QuantAQ api call is now available on the repository labeled data anylsis. We also ran into an issue with our api keys but it was resolved by contacting PurpleAir support. 
 
+During this week we went up to the roof to observe the MET sensor which is responsible for measuring pressure, temperature, humidity, rain, and wind. The sensor is currently not working and throughout the week we read documentation to see how it works. We then began troubleshooting the raspberry pi that is getting data from the MET sensor and pushing it to NOAA's CPD3 server where we can see the readings. We are currently in the process of getting the rasperry pi to recive data from the MET sensor. Throughout ths process we have learned a lot about raspberry pi's and how vi and nano terminals work. 
 
-
-
-
-
-
-
+![Creating Group](/images/IMG_1332.jpg)
 
