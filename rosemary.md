@@ -57,8 +57,16 @@ We took our first field trip to the roof of Jacob's and got to see the senors, h
 
 While all of this was going on, we had decided to also start uploading any important code that we had made to a github repository to make sure we would both have access when it came to actually working with our data later on. Other housekeeping tasks included filling our necessary paper work for our mentee that its coming in on June 24th! 
 
+##### Purple Air API limit Reached
+We ended up reaching the maximum 'free' API calls so we had to contact support to remove that blockage for us since we own the sensors. This took a few days. 
+
+While we figured this out, we also took the chance to ask the support team how we could fix the Purple Air sensor since it was not giving correct readings for tempreature and humidity. (will keep updating...)
+
 ##### Rasberry pi!
-The initial problem with our Rasberry Pi is 
+The initial problem with our Rasberry Pi is that the connection was not working well to 
+
+
+
 
 
 
