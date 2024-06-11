@@ -46,6 +46,10 @@ Next, there was the process of working with the QuantAQ API. Unfortunately, ther
 Here in This image we see a basic API request from one of our QuantAQ sensors. This was then formatted with pandas and stored into a csv file wich could later be accessed for future comparisons and graphs! 
 
 
+### Week 2(6/2 - 6/7) 
+Week 2 was entailed with a lot of housekeeping and preparation for future task. We both were tasked with the creation of the github repository for storing our code. We first ran our coe to make sure it worked before pushing it into the repository. After running our code we went through the process of learing how to properly commit code to a github repository from vscode. I personally ran into a couple of problems but after several failed pushes to the repository I finally figured it out and learned a lot along the way. The PurpleAir group code and QuantAQ api call is now available on the repository 
+
+
 
 
 
