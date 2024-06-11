@@ -53,17 +53,28 @@ Dominick focused on this sensor more!
 During week 3 and 4, we were posed with a bunch of tricky problems and situations that we had to work around. 
 We took our first field trip to the roof of Jacob's and got to see the senors, how they are connected, and what is missing to have them working fully. Professor Hawkins was able to get the mass spectrometer up and running for us. 
 
-<img src="images/looking_at_wires.HEIC" alt="Looking@Wires" style="width:200px;">
+<img src="images/looking_at_wires.HEIC" alt="Looking@Wires" style="width:350px;">
 
 While all of this was going on, we had decided to also start uploading any important code that we had made to a github repository to make sure we would both have access when it came to actually working with our data later on. Other housekeeping tasks included filling our necessary paper work for our mentee that its coming in on June 24th! 
 
 ##### Purple Air API limit Reached
 We ended up reaching the maximum 'free' API calls so we had to contact support to remove that blockage for us since we own the sensors. This took a few days. 
 
-While we figured this out, we also took the chance to ask the support team how we could fix the Purple Air sensor since it was not giving correct readings for tempreature and humidity. (will keep updating...)
+While we figured this out, we also took the chance to ask the support team how we could fix the Purple Air sensor since it was not giving correct readings for tempreature and humidity. They sent us a tutorial video to fix the readings. Me and Dom took it apart but it seems like it is still broken so we will be reaching out again to see if there is someting else we could try.
+
+<img src="images/fixing_purpleair.HEIC" alt="FixingPurpleAir" style="width:350px;">
 
 ##### Rasberry pi!
-The initial problem with our Rasberry Pi is that the connection was not working well to 
+The initial problem with our Rasberry Pi is that the connection was not working so we were not able to use the to pi
+--> WXT data acquisition(managing data from WXT series wether stations **NOAA**)
+--> CPD3 is a compact power and data device that will power the WXT and handle the data transmission. 
+
+Important Key points that helped me understand:
+* installing: conecting the WXT station NOAA to the CDP3 device 'vaisala' software on windows in Hawkins Lab
+* configure the CPD3 which me and Dom did in the rasberry pi
+* then the weather station collects the data --> sends back to CDP3
+
+We are still working on being able to collect the data from the met sensor.
 
 
 
