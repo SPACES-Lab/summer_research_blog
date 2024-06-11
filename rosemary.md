@@ -49,6 +49,15 @@ From this plot we decided that one of our sensors (grey HMC Jacobs 1) was not wo
 ##### QuantAQ:
 Dominick focused on this sensor more!
 
+## June 1st - june 10th
+During week 3 and 4, we were posed with a bunch of tricky problems and situations that we had to work around. 
+We took our first field trip to the roof of Jacob's and got to see the senors, how they are connected, and what is missing to have them working fully. Professor Hawkins was able to get the mass spectrometer up and running for us. 
+
+While all of this was going on, we had decided to aslso start uploading any important code that we had made to a github repository to make sure we would both have access when it came to acctually working with our data later on. Other housekeeping tasks included filling our necessary paper work for our mentee that its coming in on June 24th!
+
+
+
+
 
 
 
