@@ -107,7 +107,7 @@ This was great since we were getting tired of taking the sensor apart, getting i
 <img src="images/taking_apart_purple.HEIC" alt="taking_apart_purpleair" style="width:350px;">
 
 In the meantime, we decided to put up one of our extra sensors on the roof as a replacement. 
-<img src="images/whole_setup.HEIC" alt="FixingPurpleAir" style="width:350px;">
+<img src="images/whole_setup.HEIC" alt="PurpleAir" style="width:350px;">
 
 
 
