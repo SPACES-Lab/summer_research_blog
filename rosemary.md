@@ -76,7 +76,38 @@ Important Key points that helped me understand:
 
 We are still working on being able to collect the data from the met sensor.
 
+## June 11th - June 14th
+This week we prioritized being able to collect data from the met sensor and finalizing our other sensors to start officially collecting data
+We made a lot of progress with the help of Connor's emails and Sydney's lab notebook. 
 
+##### Met sensor data collection
+So basically we were taking the wrong approach towards collecting the data thinking that we had to use the NOAA weather station and much more when everything was just on the rasberry pi the whole time. We decided that we could just ssh into the pi to look at what its doing and run the script directly on there , and since it is already connected to the sensor, it saves directly to the micro sd card. This was really frusterating to figure out because it was wayyy easier that what we thought it was but its okayyy. 
+
+Things we had to do/fix:
+* pyserial
+* create an env + source myenv/bin/activate
+* make a script to run (can't forget to update and run)
+* make sure it is logging correctly
+
+One thing however that was not adding up was ~ how do we run the script continuosluy without interupting?~ 
+
+WELL Sydney had an answer to that which was using SCREEN!
+**Screen allows us to detach and keep our script running in the background without interupting**
+We installed screen and so far it has been working great. We were able to run for about a whole day while saving files in 10 minute intervals as our testing. Me and dom think that its working perfectly fine so now my next questions is 
+
+~ how to I get all these files to me without having to log in every time and without overflowing the pi with a bunch of data?~ (the pi also looses connection very often so this is important!)
+
+my answer to that is using rclone?
+I am still figuing this out and kinda failing since the connection loss from the pi is frequent but according to the documentation and stackoverflow it should work at the end and automatically add the new data files to our shared google drive for easier access.
+
+##### Broken Purple Air Sensor Update
+After going back and forth getting help to fix our sensor (Thanks to Dom), we found that it's dead and we need a replacement. The Purple air guy was nice enough to send us a new FREE SENSOR!!
+
+This was great since we were getting tired of taking the sensor apart, getting it work, putting it back together, and it dying on us again repeatedly.
+<img src="images/taking_apart_purple.HEIC" alt="taking_apart_purpleair" style="width:350px;">
+
+In the meantime, we decided to put up one of our extra sensors on the roof as a replacement. 
+<img src="images/whole_setup.HEIC" alt="FixingPurpleAir" style="width:350px;">
 
 
 
