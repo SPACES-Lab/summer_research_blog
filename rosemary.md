@@ -53,8 +53,6 @@ Dominick focused on this sensor more!
 During week 3 and 4, we were posed with a bunch of tricky problems and situations that we had to work around. 
 We took our first field trip to the roof of Jacob's and got to see the senors, how they are connected, and what is missing to have them working fully. Professor Hawkins was able to get the mass spectrometer up and running for us. 
 
-<img src="images/looking_at_wires.HEIC" alt="Looking@Wires" style="width:350px;">
-
 While all of this was going on, we had decided to also start uploading any important code that we had made to a github repository to make sure we would both have access when it came to actually working with our data later on. Other housekeeping tasks included filling our necessary paper work for our mentee that its coming in on June 24th! 
 
 ##### Purple Air API limit Reached
@@ -108,6 +106,25 @@ This was great since we were getting tired of taking the sensor apart, getting i
 
 In the meantime, we decided to put up one of our extra sensors on the roof as a replacement. 
 <img src="images/whole_setup.HEIC" alt="PurpleAir" style="width:350px;">
+
+
+## June 15th - June 20th 
+We have been using screen every since and was able to collect full day data from June 15th - June 17th. after that something happened with screen and it had stopped running which sucks because we have lost 2 full days of data due to this. 
+
+I do not think that it was user error since I had two screen sessions going on (one running our script and one not) and when i went back to download our files using scp, both sessions were discarded. Im not sure what the couse of that could have been but I plan to look it up and maybe read about some people that couldv'e had the same thing happen? 
+
+Besides that, we are preparing and making simple instructions for Valeria to test out and see if they are clear enough for a beginner to follow.
+
+##### Pitch || Presentation
+Me and Dom also gave a short ~12 min presenatuon about what our project is and how far we have gotten so far. 
+[SPACES presentation](https://docs.google.com/presentation/d/142rFpZ0hHurCrckTIKoLkyJ7lFlDk1-uFLGUYQcPNkY/edit?usp=sharing)
+We also got special roof goggles! For our trips to the roof which is very exciteing.
+
+##### data downloading
+Apart from the lost met sensor data, we have also been downloading data from the ACSM using a usb drive. We found negative numbers when measuing NH4. I think this will be averaged out at the end but I will make sure to let professor Hawkins know about it just in case. 
+
+##### Data Analysis Scripts
+I will now start to dedicate half of my day to building simmilar python scripts as connor and the other half towards working on the mobile air sensors. 
 
 
 
