@@ -68,6 +68,6 @@ We began our process by first looking at documentation from the NOAA webiste to 
 
 After two long and frustrating weeks we finally got the MET sensor to work and started our data collection officially on June 15th!!! 
 
-![Creating Group](/images/IMG_9406.jpg) 
+![Creating Group](/images/IMG_9406.jpeg) 
 
 
