@@ -51,5 +51,23 @@ Week 2 was entailed with a lot of housekeeping and preparation for future task. 
 
 During this week we went up to the roof to observe the MET sensor which is responsible for measuring pressure, temperature, humidity, rain, and wind. The sensor is currently not working and throughout the week we read documentation to see how it works. We then began troubleshooting the raspberry pi that is getting data from the MET sensor and pushing it to NOAA's CPD3 server where we can see the readings. We are currently in the process of getting the rasperry pi to recive data from the MET sensor. Throughout ths process we have learned a lot about raspberry pi's and how vi and nano terminals work. 
 
-![Creating Group](/images/IMG_1332.jpg)
+![Creating Group](/images/IMG_1332.jpg) 
+
+### Week 3(6/10 - 6/15) 
+
+This week we focused on fixing the MET sensor (Meteorology Sensor) to collect data so we will be able to start our total data collection. The MET sensor measures temperature, humidity, pressure, etc and gives us necessary data to fill in any gaps that may occur in the data from the LCS's. 
+
+We began our process by first looking at documentation from the NOAA webiste to get the data from there however it wasn't working corrrectly so we decided to switch processes. We were given Sydney's Folder which contains the work and documentation she did when configuring the rasperry pi. She forunately had a python script that showed us how to convert the serial data that was coming from the MET sensor to convert it into a regular data and put it into a csv file and store it in the rasperrypi. This finally gave a process that we could follow to get the MET sensor up and running! 
+
+**Our Process** 
+1. We created an environment in the rasperry pi terminal which is where would create the pyscript
+2. Download the necessary libraries to run Sydney's code
+3. Edit and Add to Sydyney's Code
+4. Download Screen so that we can remotely access the raspberry pi and look at the data that it is collecting without disrupting the collection process.
+5. Backup files to google drive.
+
+After two long and frustrating weeks we finally got the MET sensor to work and started our data collection officially on June 15th!!! 
+
+![Creating Group](/images/IMG_9406.jpg) 
+
 
