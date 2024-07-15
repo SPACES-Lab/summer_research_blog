@@ -71,3 +71,10 @@ After two long and frustrating weeks we finally got the MET sensor to work and s
 ![Creating Group](/images/IMG_9406.jpeg) 
 
 
+### Week 3(6/17 - 6/21) 
+
+Now that we have began our data collection we will now shift our foucs to the hardware part of our research. In the hardware sector of our research we are looking to add gps a gps and microSD module to the prexisting CanAirIO model. A CanAirIO is a device device that is portable and its purpose is to track air quality in specific areas. We want to improve the technology as the gps location and data can only be viewed through the app. However, if we are able to add a gps and microSD card to the existing circuit we would be able to download that data directly from the device itself instead of using the app. This would be benificial because you wouldn't need a wifi connection or mbile device to use this device which would be helpful if you are a child or in araeas with poor wifi connection. 
+
+![image](https://github.com/user-attachments/assets/b2e7f333-cdff-486c-96d9-7bc9b8bd99f8)
+
+
