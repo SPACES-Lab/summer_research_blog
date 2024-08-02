@@ -85,8 +85,9 @@ This is the current model that we are looking to improve.
 
 As shown the first schemtic is testing and functioning. However we want to see if we can add the gps and microsd components. 
 
-### Week 5(6/24 - 6/28) 
+### Week 5 and 6(6/24 - 7/3) 
 
+This week is where we began to actually solder and build the sensors from scratch. It was a long process with lots of mishaps but we were succesful in making two working sensors. I personally learned that two wires can go to the same output by just stripping them and weaving them together then soldering. We were able to get readings form the sensors which was great!                                                                                        
 
 
 
